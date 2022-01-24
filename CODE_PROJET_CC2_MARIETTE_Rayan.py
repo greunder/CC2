@@ -1,3 +1,14 @@
+# =============================================================================
+# Nom du fichier : CODE_PROKET_CC2_Rayan.py
+# Auteur : MARIETTE Rayan
+# Année : 2021-2022
+# Classe : ITS2
+# Sujet : Methode Simplexe ' Linear Programming'
+# Professeur : Thiago ABREU
+# Lien Github : https://github.com/greunder/CC2
+# =============================================================================
+
+
 def Pas_Simple():
     
     s=0.05
