@@ -1,6 +1,15 @@
 import sys
 from PyQt5.QtWidgets import QMainWindow, QLabel,QApplication, QSpinBox,QPushButton, QWidget, QTabWidget,QVBoxLayout,QLineEdit
 
+# =============================================================================
+# Nom du fichier : IHM_PROKET_CC2_Rayan.py
+# Auteur : MARIETTE Rayan
+# Année : 2021-2022
+# Classe : ITS2
+# Sujet : Methode Simplexe ' Linear Programming'
+# Professeur : Thiago ABREU
+# Lien Github : https://github.com/greunder/CC2
+# =============================================================================
 
 class App(QMainWindow):
 
